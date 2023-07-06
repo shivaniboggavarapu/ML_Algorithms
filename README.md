@@ -6,7 +6,7 @@ Logistic Regression on Heart Dataset from Kaggle <br>
 ![image](https://github.com/shivaniboggavarapu/ML_Algorithms/assets/84684106/4fc626bd-01f7-4226-a702-1a96e6aa26fd)<br>
 Decision Tree on Bill_Authentication Dataset from Kaggle<br>
 ![image](https://github.com/shivaniboggavarapu/ML_Algorithms/assets/84684106/d799eb6a-1597-4ba1-b267-2d58805806a4)<br>
-KNN on Iris Dataset from Kaggle<br>
+K-Mean Clustering on Iris Dataset from Kaggle<br>
 ![image](https://github.com/shivaniboggavarapu/ML_Algorithms/assets/84684106/5268e300-d732-4482-8f46-d3e80a27f8fd)<br>
 SVM on Load_Digits Dataset from Kaggle<br>
 ![image](https://github.com/shivaniboggavarapu/ML_Algorithms/assets/84684106/e5ebe29c-7a58-4a9f-ab8a-0b660f6a782a)<br>
@@ -18,6 +18,9 @@ Adaboost on Iris Dataset from Kaggle<br>
 ![image](https://github.com/shivaniboggavarapu/ML_Algorithms/assets/84684106/292a5923-ed49-4cf8-ad72-ca586932e5b9)<br>
 Random Forest on Car_Evaluation Dataset from Kaggle<br>
 ![image](https://github.com/shivaniboggavarapu/ML_Algorithms/assets/84684106/5bc78531-dcc0-42f4-8a70-9e0cb9b72c0a)<br>
+KNN on Classified_data Dataset from Kaggle<br>
+![image](https://github.com/shivaniboggavarapu/ML_Algorithms/assets/84684106/ab13801b-0830-49d5-a26c-381cfef86e2c)<br>
+
 
 
 
